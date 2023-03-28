@@ -14,5 +14,5 @@ Projeto de uma pagina de login e cadastro
 <br>
 <p>Feito com ♥ por Marcelo Eufrasio :wave: <a href="https://www.linkedin.com/in/marcelo-eufrasio-834034234/"> Entre em contato </a>.</p>
 <br>
-<img src="https://github.com/marceloeufrasiof/Login-screen/blob/master/assets/login-screen.png>
-<img src="https://github.com/marceloeufrasiof/Login-screen/blob/master/assets/signup-screen.png>
+<img src="https://github.com/marceloeufrasiof/Login-screen/blob/master/assets/login-screen.png"/>
+<img src="https://github.com/marceloeufrasiof/Login-screen/blob/master/assets/signup-screen.png"/>
